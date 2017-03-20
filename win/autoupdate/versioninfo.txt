@@ -1,32 +1,32 @@
-Last Commit: 1.0-1043-g27654fc
-Last Commit Hash: 27654fc43b51a8bb0be61944434b60614abea809
-Last Commit Hash Short: 27654fc
-zlib1.dll, 5.8, 12a1924393844d1442e2bc45312cdce7
-imageformats\qjpeg.dll, 5.8, 167e37765acb562f77fd15af817023f3
-Qt5Xml.dll, 5.8, 5cad2c38d2f8fa34a2a368fc8c1af038
-libgcc_s_seh-1.dll, 5.8, bc56b1be3281a6f34bfe561631727ee9
-libeay32.dll, 5.8, a9c09c7b39ee0641f26b9543629a9dfa
-libwinpthread-1.dll, 5.8, fbad378d6bbab79b1d4670bab8c62cad
-LICENSE.GPL3, 5.8, 7a2acf8024b2772c798974c03e2a4171
-YUView.exe, 27654fc43b51a8bb0be61944434b60614abea809, 3b4ac38df8a6974e822aa3a4bad15ea6
-imageformats\qicns.dll, 5.8, dfc3128239816abbba76adcabd2662d1
-imageformats\qtiff.dll, 5.8, d3550b52263b238814b204a6d9ba5a1b
-libstdc++-6.dll, 5.8, 739c94335412b09bd0a3794e987a1da9
-WindowsUpdater\YUViewUpdater.exe, 5.8, 5da979a06b5c26a13dba50d3559f1c4f
-imageformats\qgif.dll, 5.8, 0cb2a9fd608cb184959ab844dc45589f
-imageformats\qwbmp.dll, 5.8, 2a6f20e020a54cf16e31b58a766b747e
-libde265\LICENCE.txt, 5.8, 127a6885dbfe4ec514c936b705a0abdf
-imageformats\qtga.dll, 5.8, 24852a230142611e5c023fd3feb2e809
-bearer\qnativewifibearer.dll, 5.8, 79995726448dbb5761fe30efab4855cf
-ssleay32.dll, 5.8, 95867d9c5f416284a68a0e3f385f8540
-bearer\qgenericbearer.dll, 5.8, c28b7321f563187e253707f3e73b433f
-imageformats\qwebp.dll, 5.8, 470f89ed514f6501f222e0fb0a3b4c88
-libgomp-1.dll, 5.8, b8271410048f4abd4885ee6e23e0e92b
-libde265\libde265-internals.dll, 5.8, 459ea861aff53bf1251aecfa176f8d16
-Qt5Gui.dll, 5.8, 37d0438944f3f822aabb01c87ff20d40
-Qt5Widgets.dll, 5.8, 3619eadd33ef0dab1851a9865d5e295e
-imageformats\qico.dll, 5.8, 46bf0fab301e2d8c9548331a3496e575
-platforms\qwindows.dll, 5.8, 160cb973157bb11ba00560ab0eeca308
-Qt5Network.dll, 5.8, 72b6fe205dc69be293cad14f046203aa
-versioninfo.txt, 5.8, d41d8cd98f00b204e9800998ecf8427e
-Qt5Core.dll, 5.8, 928fb32f55ad1b679cbd35a21e4d4cc5
+Last Commit: 1.0-1045-gc47111e
+Last Commit Hash: c47111e15295043811ca4c4248e7da945f57f6d4
+Last Commit Hash Short: c47111e
+zlib1.dll, 5.8, 12a1924393844d1442e2bc45312cdce7, 93830
+imageformats\qjpeg.dll, 5.8, 167e37765acb562f77fd15af817023f3, 236544
+Qt5Xml.dll, 5.8, 5cad2c38d2f8fa34a2a368fc8c1af038, 205312
+libgcc_s_seh-1.dll, 5.8, bc56b1be3281a6f34bfe561631727ee9, 83230
+libeay32.dll, 5.8, a9c09c7b39ee0641f26b9543629a9dfa, 2956360
+libwinpthread-1.dll, 5.8, fbad378d6bbab79b1d4670bab8c62cad, 56978
+LICENSE.GPL3, 5.8, 7a2acf8024b2772c798974c03e2a4171, 36681
+YUView.exe, c47111e15295043811ca4c4248e7da945f57f6d4, 36ec587bd3343bdba56747f87bd6803a, 2114560
+imageformats\qicns.dll, 5.8, dfc3128239816abbba76adcabd2662d1, 45568
+imageformats\qtiff.dll, 5.8, d3550b52263b238814b204a6d9ba5a1b, 364032
+libstdc++-6.dll, 5.8, 739c94335412b09bd0a3794e987a1da9, 1422948
+WindowsUpdater\YUViewUpdater.exe, 5.8, 5da979a06b5c26a13dba50d3559f1c4f, 206848
+imageformats\qgif.dll, 5.8, 0cb2a9fd608cb184959ab844dc45589f, 35328
+imageformats\qwbmp.dll, 5.8, 2a6f20e020a54cf16e31b58a766b747e, 27648
+libde265\LICENCE.txt, 5.8, 127a6885dbfe4ec514c936b705a0abdf, 43113
+imageformats\qtga.dll, 5.8, 24852a230142611e5c023fd3feb2e809, 28160
+bearer\qnativewifibearer.dll, 5.8, 79995726448dbb5761fe30efab4855cf, 81920
+ssleay32.dll, 5.8, 95867d9c5f416284a68a0e3f385f8540, 819859
+bearer\qgenericbearer.dll, 5.8, c28b7321f563187e253707f3e73b433f, 88064
+imageformats\qwebp.dll, 5.8, 470f89ed514f6501f222e0fb0a3b4c88, 493056
+libgomp-1.dll, 5.8, b8271410048f4abd4885ee6e23e0e92b, 162068
+libde265\libde265-internals.dll, 5.8, 459ea861aff53bf1251aecfa176f8d16, 851968
+Qt5Gui.dll, 5.8, 37d0438944f3f822aabb01c87ff20d40, 4750848
+Qt5Widgets.dll, 5.8, 3619eadd33ef0dab1851a9865d5e295e, 5711872
+imageformats\qico.dll, 5.8, 46bf0fab301e2d8c9548331a3496e575, 35328
+platforms\qwindows.dll, 5.8, 160cb973157bb11ba00560ab0eeca308, 1524224
+Qt5Network.dll, 5.8, 72b6fe205dc69be293cad14f046203aa, 1543680
+versioninfo.txt, 5.8, d41d8cd98f00b204e9800998ecf8427e, 0
+Qt5Core.dll, 5.8, 928fb32f55ad1b679cbd35a21e4d4cc5, 5246464
