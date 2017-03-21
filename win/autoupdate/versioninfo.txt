@@ -1,6 +1,6 @@
-Last Commit: 1.0-1046-g714c4aa
-Last Commit Hash: 714c4aa6c0b281a3f82553cbfaaad771b1dd2c84
-Last Commit Hash Short: 714c4aa
+Last Commit: 1.0-1051-g95d273e
+Last Commit Hash: 95d273ed4f700f73cebf049f1af7a4b783792806
+Last Commit Hash Short: 95d273e
 zlib1.dll, 5.8, 12a1924393844d1442e2bc45312cdce7, 93830
 imageformats\qjpeg.dll, 5.8, 167e37765acb562f77fd15af817023f3, 236544
 Qt5Xml.dll, 5.8, 5cad2c38d2f8fa34a2a368fc8c1af038, 205312
@@ -8,11 +8,10 @@ libgcc_s_seh-1.dll, 5.8, bc56b1be3281a6f34bfe561631727ee9, 83230
 libeay32.dll, 5.8, a9c09c7b39ee0641f26b9543629a9dfa, 2956360
 libwinpthread-1.dll, 5.8, fbad378d6bbab79b1d4670bab8c62cad, 56978
 LICENSE.GPL3, 5.8, 7a2acf8024b2772c798974c03e2a4171, 36681
-YUView.exe, 714c4aa6c0b281a3f82553cbfaaad771b1dd2c84, 47cd88534deefc8d00d3a1d3a95a3a93, 2114560
+YUView.exe, 95d273ed4f700f73cebf049f1af7a4b783792806, 98807a6db542c90b3b302656dd20bada, 2134528
 imageformats\qicns.dll, 5.8, dfc3128239816abbba76adcabd2662d1, 45568
 imageformats\qtiff.dll, 5.8, d3550b52263b238814b204a6d9ba5a1b, 364032
 libstdc++-6.dll, 5.8, 739c94335412b09bd0a3794e987a1da9, 1422948
-WindowsUpdater\YUViewUpdater.exe, 5.8, 5da979a06b5c26a13dba50d3559f1c4f, 206848
 imageformats\qgif.dll, 5.8, 0cb2a9fd608cb184959ab844dc45589f, 35328
 imageformats\qwbmp.dll, 5.8, 2a6f20e020a54cf16e31b58a766b747e, 27648
 libde265\LICENCE.txt, 5.8, 127a6885dbfe4ec514c936b705a0abdf, 43113
