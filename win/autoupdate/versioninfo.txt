@@ -21,7 +21,7 @@ ssleay32.dll, 5.8, 95867d9c5f416284a68a0e3f385f8540, 819859
 bearer\qgenericbearer.dll, 5.8, c28b7321f563187e253707f3e73b433f, 88064
 imageformats\qwebp.dll, 5.8, 470f89ed514f6501f222e0fb0a3b4c88, 493056
 libgomp-1.dll, 5.8, b8271410048f4abd4885ee6e23e0e92b, 162068
-libde265\libde265-internals.dll, 5.8, 466e11f3043cd25feb004c3d9edc20a1, 984064
+libde265\libde265-internals.dll, 5.8-update, 466e11f3043cd25feb004c3d9edc20a1, 984064
 Qt5Gui.dll, 5.8, 37d0438944f3f822aabb01c87ff20d40, 4750848
 Qt5Widgets.dll, 5.8, 3619eadd33ef0dab1851a9865d5e295e, 5711872
 imageformats\qico.dll, 5.8, 46bf0fab301e2d8c9548331a3496e575, 35328
