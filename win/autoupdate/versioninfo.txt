@@ -1,12 +1,12 @@
-Last Commit: 2.0-423-g9f83e19
-Last Commit Hash: 9f83e195531a329db787bd47c5c55f4e08a9860e
-Last Commit Hash Short: 9f83e19
+Last Commit: 2.1-28-g6cc0252
+Last Commit Hash: 6cc0252095fa35ddd230a1e21b29061403e7b8c3
+Last Commit Hash Short: 6cc0252
 imageformats\qjpeg.dll, 5.11, 84117196227be2643bdb76360e65c167, 460288
 Qt5Xml.dll, 5.11, df6945db0f77e561b0151b4ba7c7cdb9, 273920
 libEGL.dll, 5.11, ded01f09a16aa36a859df5ccb084b29b, 89600
 LICENSE.GPL3, 5.11, 7a2acf8024b2772c798974c03e2a4171, 36681
 styles\qwindowsvistastyle.dll, 5.11, c1a62621a34a0be166136f638053081d, 210432
-YUView.exe, 9f83e195531a329db787bd47c5c55f4e08a9860e, ed6cc4537e173b57596f28ef3b3217fc, 2970112
+YUView.exe, 6cc0252095fa35ddd230a1e21b29061403e7b8c3, da93c2548da2e58c72bba68cd9771f3f, 2971648
 imageformats\qicns.dll, 5.11, f2b589e149c34cb717535a24b38b281a, 117248
 imageformats\qtiff.dll, 5.11, d17e06db130c9ddae369e7becc7459ef, 504320
 libssl-1_1-x64.dll, 5.11, 1c42b42dd9923361bf9e0cff9ff3eaed, 961024
