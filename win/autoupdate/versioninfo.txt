@@ -1,12 +1,13 @@
-Last Commit: 2.1-33-ge93d75a
-Last Commit Hash: e93d75ab5d8d89e6bbad3c1be7630f53c0444857
-Last Commit Hash Short: e93d75a
+Last Commit: 2.2-296-g6295b18
+Last Commit Hash: 6295b180dece1210dbfa7a16f95709f5ae4aadb8
+Last Commit Hash Short: 6295b18
 imageformats\qjpeg.dll, 5.11, 84117196227be2643bdb76360e65c167, 460288
 Qt5Xml.dll, 5.11, df6945db0f77e561b0151b4ba7c7cdb9, 273920
+libde265\libde265.dll, 5.11, 96d5621950c3d5cf9e5441f94ebd132f, 950272
 libEGL.dll, 5.11, ded01f09a16aa36a859df5ccb084b29b, 89600
 LICENSE.GPL3, 5.11, 7a2acf8024b2772c798974c03e2a4171, 36681
 styles\qwindowsvistastyle.dll, 5.11, c1a62621a34a0be166136f638053081d, 210432
-YUView.exe, e93d75ab5d8d89e6bbad3c1be7630f53c0444857, 4d0563f19d8fefe01f513d18ee1fe2bc, 2971648
+YUView.exe, 6295b180dece1210dbfa7a16f95709f5ae4aadb8, 1e959ab71f99e2133aa2b8f3b69e454a, 3039232
 imageformats\qicns.dll, 5.11, f2b589e149c34cb717535a24b38b281a, 117248
 imageformats\qtiff.dll, 5.11, d17e06db130c9ddae369e7becc7459ef, 504320
 libssl-1_1-x64.dll, 5.11, 1c42b42dd9923361bf9e0cff9ff3eaed, 961024
@@ -16,7 +17,6 @@ imageformats\qtga.dll, 5.11, cbb5acfecf4c964da47305b222db04fb, 99840
 bearer\qgenericbearer.dll, 5.11, 180b0ed145f5bc2fcbfb4932e7c9d6ee, 122880
 imageformats\qwebp.dll, 5.11, 555582a46efc53c729603b21cde74cb7, 583680
 libcrypto-1_1-x64.dll, 5.11, c3f8b0c6d2340dd3039ed85909580a85, 3563008
-libde265\libde265-internals.dll, 5.11, 466e11f3043cd25feb004c3d9edc20a1, 984064
 Qt5Gui.dll, 5.11, cd2cafc6534ad2994484b4cbbbab04c3, 6472704
 libGLESV2.dll, 5.11, b38385679a40f40bebefcb434b493c04, 2782720
 Qt5Widgets.dll, 5.11, a730198dd1449ba2e5d97f1cb82d5993, 5625856
