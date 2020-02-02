@@ -1,16 +1,16 @@
-Last Commit: 2.4
-Last Commit Hash: d6dd423ddcd5ea9312ce83f3263d9eb2df629871
-Last Commit Hash Short: d6dd423
+Last Commit: 2.5
+Last Commit Hash: f10f75292aa6d7f48dc7e82625a8af3fc63cf6a8
+Last Commit Hash Short: f10f752
 imageformats\qjpeg.dll, 5.13, d2196fa0e897d58c47d11a0ae12780a0, 401408
 Qt5Xml.dll, 5.13, 2d46179286b46ed124753ac455814dbe, 198656
 libEGL.dll, 5.13, 0ddbefc08c6e15b7617426e751f036ac, 18432
 LICENSE.GPL3, 5.13, 2642ecc89452c6f52c500b7332b9a91b, 37386
 decoder\libde265.dll, 5.13, 96d5621950c3d5cf9e5441f94ebd132f, 950272
-YUView.exe, d6dd423ddcd5ea9312ce83f3263d9eb2df629871, c5bdc0f93c75dfe8591350433c77caee, 2950656
+YUView.exe, f10f75292aa6d7f48dc7e82625a8af3fc63cf6a8, d8e525b1e62b464978b82c3ffdf0c1bd, 2992640
 decoder\libde265License.txt, 5.13, 852f345c1c52c9160f9a7c36bb997546, 43284
 libssl-1_1-x64.dll, 5.13, 2b60c5ee2a44bc4420513fed1ea23aba, 655360
 imageformats\qgif.dll, 5.13, 35833c10de354f51db1b58782f59a9ae, 31744
-Qt5Charts.dll, 5.13, fd2c390ca3df4d6149e411dfca26ea53, 1419776
+Qt5Charts.dll, 5.13, 189ae799c65aef68ac530b0c59568706, 1419776
 bearer\qgenericbearer.dll, 5.13, 5e8eb8580a21ed3b00765ff1268fbb1c, 48128
 libcrypto-1_1-x64.dll, 5.13, 9a8939f90f486a54e763fe1f4f78cad5, 3291648
 styles\qwindowsvistastyle.dll, 5.13, c1493a3bd8286dd8cc354125fbffb438, 136192
