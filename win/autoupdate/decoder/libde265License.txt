@@ -1,5 +1,9 @@
 The library `libde265` is distributed under the terms of the GNU Lesser
-General Public License. 
+General Public License. The sample applications are distributed under
+the terms of the GNU General Public License.
+
+License texts below and in the `COPYING` files of the corresponding
+subfolders.
 
 ----------------------------------------------------------------------
 
