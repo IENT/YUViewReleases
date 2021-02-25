@@ -1,23 +1,23 @@
-Last Commit: v2.9
-Last Commit Hash: 50361fbca366c3a4db15359af64fa535ceee6f6a
-Last Commit Hash Short: 50361fbc
-Qt5Xml.dll, 5.13, b6fb478ece00266f7c60d5222c1b6f6a, 206848
-imageformats\qico.dll, 5.13, 2d244e005f4024683182d14cc11ddec5, 31232
-styles\qwindowsvistastyle.dll, 5.13, 687138c7488a4fb335926c8c8497ecab, 137216
-platforms\qwindows.dll, 5.13, 6668890d015f945b9c7c57c6da35d286, 1432064
-Qt5Core.dll, 5.13, defcd760f48ad3c1f48d87290efd4dec, 5997568
-D3Dcompiler_47.dll, 5.13, 81dc4b6282e7464297e88c20a6901e21, 4477440
-libGLESv2.dll, 5.13, 7e77ad521ae596fb6da93faf416db975, 3371520
-libcrypto-1_1-x64.dll, 5.13, f60223c8262246ae6cd989b05cd4ce97, 3422208
-imageformats\qjpeg.dll, 5.13, 34cd601036cc6b9a5be3ec92fe9e7d04, 413696
-Qt5Widgets.dll, 5.13, 7d253ed0f9dfef5c8d8a7638758e4283, 5485568
-bearer\qgenericbearer.dll, 5.13, b094ed373a587a9273b972f51aefccfb, 46080
-YUView.exe, 50361fbca366c3a4db15359af64fa535ceee6f6a, 26461714699c3dbba813cafdfa95d181, 2995712
+Last Commit: v2.10
+Last Commit Hash: 31acbeb8998367570cade949acd962cd36ee82a8
+Last Commit Hash Short: 31acbeb8
+YUView.exe, 31acbeb8998367570cade949acd962cd36ee82a8, b2a8443742c45085af9c5c2a06bb0e16, 3913728
+decoder\libde265License.txt, 5.13, 852f345c1c52c9160f9a7c36bb997546, 43284
 LICENSE.GPL3, 5.13, 2642ecc89452c6f52c500b7332b9a91b, 37386
-imageformats\qgif.dll, 5.13, 5735e7c53d93bd02104bd39915c058e9, 32256
-Qt5Gui.dll, 5.13, ea4418e251cec33f59fbd54d04c8b15d, 6735872
+libcrypto-1_1-x64.dll, 5.13, f60223c8262246ae6cd989b05cd4ce97, 3422208
 Qt5Network.dll, 5.13, a486c7f7e531d4be95897902573d617e, 1329664
 decoder\libde265.dll, 5.13, 96d5621950c3d5cf9e5441f94ebd132f, 950272
-decoder\libde265License.txt, 5.13, 852f345c1c52c9160f9a7c36bb997546, 43284
+Qt5Gui.dll, 5.13, ea4418e251cec33f59fbd54d04c8b15d, 6735872
+bearer\qgenericbearer.dll, 5.13, b094ed373a587a9273b972f51aefccfb, 46080
+platforms\qwindows.dll, 5.13, 6668890d015f945b9c7c57c6da35d286, 1432064
+imageformats\qico.dll, 5.13, 2d244e005f4024683182d14cc11ddec5, 31232
+Qt5Xml.dll, 5.13, b6fb478ece00266f7c60d5222c1b6f6a, 206848
 libEGL.dll, 5.13, 3660ec541d71071fdbc774aca17ada9d, 17920
+Qt5Widgets.dll, 5.13, 7d253ed0f9dfef5c8d8a7638758e4283, 5485568
+Qt5Core.dll, 5.13, defcd760f48ad3c1f48d87290efd4dec, 5997568
 libssl-1_1-x64.dll, 5.13, 2d675cb9694db4cbf9f956df4a27dab6, 686592
+imageformats\qgif.dll, 5.13, 5735e7c53d93bd02104bd39915c058e9, 32256
+libGLESv2.dll, 5.13, 7e77ad521ae596fb6da93faf416db975, 3371520
+D3Dcompiler_47.dll, 5.13, 81dc4b6282e7464297e88c20a6901e21, 4477440
+imageformats\qjpeg.dll, 5.13, 34cd601036cc6b9a5be3ec92fe9e7d04, 413696
+styles\qwindowsvistastyle.dll, 5.13, 687138c7488a4fb335926c8c8497ecab, 137216
