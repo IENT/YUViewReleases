@@ -1,26 +1,26 @@
-Last Commit: v2.15
-Last Commit Hash: eb687964607aad25c8f91b0cd7958a22fc92e76b
-Last Commit Hash Short: eb687964
-networkinformation\qnetworklistmanager.dll, 5.13, 27762598fe5ce3e96df838340b194ee3, 67072
-Qt6Widgets.dll, 5.13, f1d50d6c3e77fff7d5b3a4e15ade831e, 6504448
-dxil.dll, 5.13, 284d82d9f9f66e2822d3c6e46ab8b118, 1508432
-decoder\libde265.dll, 5.13, 96d5621950c3d5cf9e5441f94ebd132f, 950272
-libcrypto-3-x64.dll, 5.13, 785b2f8bda06b893f30b71d3c5c6ea08, 7088128
-libssl-3-x64.dll, 5.13, da75b5fb5379f666752705c0be289dbb, 1294848
-Qt6Gui.dll, 5.13, 6f9dec3ee7cc5ed48cfb0b803b4581c1, 9283072
-platforms\qwindows.dll, 5.13, 1b00e37c62b59679b169dfd103c26800, 982528
-Qt6Xml.dll, 5.13, 3dff8ce2e5124b530cfaa0e4bcb9d627, 146432
-decoder\libde265License.txt, 5.13, 852f345c1c52c9160f9a7c36bb997546, 43284
-LICENSE.GPL3, 5.13, 2642ecc89452c6f52c500b7332b9a91b, 37386
+Last Commit: v2.16
+Last Commit Hash: b666a90f8619c1675ea3807fe14c1c7207fc8536
+Last Commit Hash Short: b666a90f
 imageformats\qjpeg.dll, 5.13, bca35d064ea1a1639fe3ec1683ffb8ab, 580096
-d3dcompiler_47.dll, 5.13, 19e527a35241c171d37dc1e6c530053c, 4741488
-Qt6Network.dll, 5.13, 3423319799b6850dce18f5ca5f9cec9e, 1768960
-imageformats\qico.dll, 5.13, c6ca693f671463dbf38b1fb6ebb09b50, 34816
-generic\qtuiotouchplugin.dll, 5.13, 1a0f951edec97db1398ce397e0443357, 90624
-tls\qcertonlybackend.dll, 5.13, 5e2c55f95fed823125953a7f9d7180eb, 93184
+Qt6Gui.dll, 5.13, 6f9dec3ee7cc5ed48cfb0b803b4581c1, 9283072
+LICENSE.GPL3, 5.13, 2642ecc89452c6f52c500b7332b9a91b, 37386
 imageformats\qgif.dll, 5.13, e2e061e67fe7e6b8f74680b74d692eac, 35840
 styles\qmodernwindowsstyle.dll, 5.13, 369aab67021957f36c86dfa49e43f4c3, 229376
-YUView.exe, eb687964607aad25c8f91b0cd7958a22fc92e76b, 5eb350486df11d47833412de4253f44e, 4282368
-Qt6Core.dll, 5.13, 82c5e516f2ba07d6dbeed18ffd2edcaa, 10461696
+dxil.dll, 5.13, 284d82d9f9f66e2822d3c6e46ab8b118, 1508432
+libcrypto-3-x64.dll, 5.13, 785b2f8bda06b893f30b71d3c5c6ea08, 7088128
+decoder\libde265.dll, 5.13, 96d5621950c3d5cf9e5441f94ebd132f, 950272
+libssl-3-x64.dll, 5.13, da75b5fb5379f666752705c0be289dbb, 1294848
+Qt6Network.dll, 5.13, 3423319799b6850dce18f5ca5f9cec9e, 1768960
 tls\qschannelbackend.dll, 5.13, ca8c1c05e9dead740e3e87c1ece3a0c5, 236544
+d3dcompiler_47.dll, 5.13, b60192eee48accc3b495bf1c95e9076d, 4741544
+tls\qcertonlybackend.dll, 5.13, 5e2c55f95fed823125953a7f9d7180eb, 93184
+Qt6Xml.dll, 5.13, 3dff8ce2e5124b530cfaa0e4bcb9d627, 146432
+networkinformation\qnetworklistmanager.dll, 5.13, 27762598fe5ce3e96df838340b194ee3, 67072
+imageformats\qico.dll, 5.13, c6ca693f671463dbf38b1fb6ebb09b50, 34816
+Qt6Widgets.dll, 5.13, f1d50d6c3e77fff7d5b3a4e15ade831e, 6504448
+decoder\libde265License.txt, 5.13, 695b556799abb2435c97a113cdca512f, 44339
+platforms\qwindows.dll, 5.13, 1b00e37c62b59679b169dfd103c26800, 982528
+generic\qtuiotouchplugin.dll, 5.13, 1a0f951edec97db1398ce397e0443357, 90624
+YUView.exe, b666a90f8619c1675ea3807fe14c1c7207fc8536, e967baa595b898105a3a56d57160cf6d, 4282880
+Qt6Core.dll, 5.13, 82c5e516f2ba07d6dbeed18ffd2edcaa, 10461696
 dxcompiler.dll, 5.13, 891b633c0a01cb8ad706789095a2c00b, 12602944
